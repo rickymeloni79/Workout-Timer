@@ -31,7 +31,7 @@ header{
 body{
     width: 100%;
     height: auto;
-    background-image: url(./Images/wp3486337-woodland-camouflage-wallpaper-hd.png);
+    background-image: url(../Images/wp3486337-woodland-camouflage-wallpaper-hd.png);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -51,7 +51,6 @@ main{
 .section1{   
     width: 50%;
     height: 80%;
-    /* border: solid 2px white; */
     display: flex;
     justify-content: center;
     align-items: center;  
@@ -90,7 +89,6 @@ label{
 .section2{   
     width: 50%;
     height: 80%;
-    /* border: solid 2px white; */
     display: flex;
     justify-content: center;
     align-items: center;
